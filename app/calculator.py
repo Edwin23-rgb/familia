@@ -3,3 +3,5 @@ class calculator:
         return a + b
     def restar(self, a, b):
         return a-b
+def div(self, a, b):
+    return a/b
